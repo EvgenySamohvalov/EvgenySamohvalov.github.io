@@ -1,0 +1,340 @@
+@media (max-width:1625px) {
+    .advantages::before,
+    .advantages__block_center::before,
+    .advantages::after {
+        display: none;
+    }
+
+    .header,
+    .devices {
+        padding: 0 15px;
+    }
+
+    .lenguages {
+        padding: 10px 15px;
+    }
+
+    .header__logo {
+        flex-basis: 48%;
+    }
+
+    .advantages {
+        justify-content: space-between;
+    }
+
+    .advantages__block1,
+    .advantages__block {
+        margin: 0 15px 30px;
+    }
+
+    .advantages__block_title p {
+        line-height: 1;
+    }
+
+    .advantages__block_content {
+        text-align: justify;
+    }
+
+    .security {
+        border: none;
+        max-width: 100%;
+        align-items: center;
+        padding: 0 15px;
+    }
+
+    .security_special {
+        position: relative;
+        bottom:auto;
+        right: auto;
+    }
+
+    .security_content {
+        text-align: center;
+    }
+
+    .security_special {
+        display: none;
+    }
+
+    .media__list {
+        justify-content: space-around;
+        padding: 0 15px;
+    }
+
+    .media__item-7 {
+        display: none;
+    }
+
+    .devices__quote {
+        margin: 0 0 80px 50px;
+    }
+
+    .margin_zero_1625 {
+        margin: 0;
+    }
+}
+
+@media (max-width:1400px) {
+    .header {
+        justify-content: space-between;
+    }
+
+    .header__logo,
+    .header__navigation {
+        flex-basis: auto;
+    }
+
+    .header__registration {
+        margin-right: 7px;
+    }
+
+    .wrapper {
+        padding: 10px 0 30px;
+    }
+
+    .banner_title,
+    .security__title {
+        font-size: 50px;
+    }
+
+    .banner_title_second {
+        font-size: 32px;
+    }
+
+    .footer__phrase,
+    .footer__lists_company::before,
+    .devices__content_img,    
+    .banner__links {
+        display: none;
+    }
+
+    .banner_title_second {
+        margin: 0 0 59px;
+    }
+
+    .advantages {
+        padding: 40px 0;
+    }
+
+    .security_content,
+    .privacy_content {
+        font-size: 20px;
+    }
+
+    .media__list {
+        justify-content: space-between;
+    }
+
+    .devices {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        max-width: 100%;
+        border: none;
+    }
+
+    .devices__content {
+        margin: 0;
+    }
+
+   .devices__content_title,
+   .devices__content_text,
+   .privacy_title {
+       text-align: center;
+   }
+
+   .devices__stores {
+       justify-content: center;
+   }
+
+   .devices__quote p {
+       font-size: 20px;
+   }
+
+   .footer_top,
+   .contacts {
+       border: none;
+   }
+
+   .contacts {
+       padding: 0;
+       flex-basis: 36.5%;
+   }
+
+   .footer_top {
+        margin-bottom: 25px;
+   }
+
+   .footer_top,
+   .footer__links,
+   .footer_end {
+       padding: 0 15px;
+   }
+
+   .companies {
+       display: flex;
+       justify-content: space-between;
+       margin-bottom:75px;
+   }
+   .footer_end {
+       text-align: center;
+   }
+}
+
+@media (max-width:800px) {
+
+    .header {
+        flex-wrap: wrap;
+    }
+
+    .header__logo {
+        order: 1;
+    }
+
+    .header__account {
+        order: 2;
+    }
+
+    .header__logo {
+        font-size: 20px;
+    }
+
+    .banner_title,
+    .security__title {
+        font-size: 36px;
+    }
+
+    .banner_title_second {
+        font-size: 26px;
+    }
+
+    .banner_title_second {
+        margin: 0 0 49px;
+    }
+    
+    .advantages {
+        flex-direction: column;
+        align-items: center;
+        padding: 20px 0;
+    }
+
+    .advantages__block_title {
+        margin-bottom: 15px;
+    }
+
+    .security_content,
+    .privacy_content {
+        font-size: 18px;
+    }
+
+    .header__navigation,
+    .lenguages__list,
+    .media,
+    .companies,
+    .devices__quote::before {
+        display: none;
+    }
+
+    .devices__quote {
+        margin: 0 0 50px;
+    }
+
+    .privacy {
+        padding: 50px 15px;
+    }
+
+    .contacts,
+    .footer__lists_legal,
+    .footer__lists,
+    .footer__lists_NeutronMail {
+        flex-basis: 50%;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-bottom: 25px;
+    }
+
+    .footer__lists_title {
+        margin: 0 0 5px;
+    }
+
+    .footer__lists_content li {
+        text-align: center;
+    }
+} 
+
+@media (max-width:600px) {
+
+    .banner {
+        padding: 20px 15px 30px;
+        background: transparent;
+    }
+
+    .banner_title_second {
+        margin: 0 0 30px;
+    }
+
+    .banner_title,
+    .security__title,
+    .devices__content_title,
+    .privacy_title {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .banner_title_second {
+        font-size: 20px;
+    }
+
+    .banner__create {
+        flex-wrap: wrap;
+    }
+
+    .banner__createAccount {
+        flex-basis: 100%;
+        margin: 0 0 20px;
+    }
+
+    .devices__content_wrapper {
+        padding: 0 15px;
+        max-width: 100%;
+    }
+
+    .devices__content_text {
+        padding: 0;
+    }
+
+    .devices__stores {
+        flex-direction: column;
+    }
+
+    .devices__apple {
+        margin: 0 0 20px;
+    }
+
+    .security,
+    .privacy__paidPlan {
+        margin: 0 0 25px ;
+    }
+
+    .devices__quote p {
+        font-size: 16px;
+    }
+
+    .privacy_content {
+        text-align: center;
+    }
+
+    .privacy__pay {
+        flex-direction: column;
+    }
+
+} 
+
+@media (max-width:600px) {
+    .footer_top {
+        flex-direction: column;
+    }
+
+}

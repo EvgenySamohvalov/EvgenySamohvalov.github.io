@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'titillium_web-regular';
+    src: url('../assets/font/titilliumweb-regular.ttf') format('ttf'),
+         url('../assets/font/titilliumweb-regular.woff2') format('woff2'),
+         url('../assets/font/titilliumweb-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'titillium_web-bold';
+    src: url('../assets/font/titilliumweb-bold.ttf') format('ttf'),
+         url('../assets/font/titilliumweb-bold.woff2') format('woff2'),
+         url('../assets/font/titilliumweb-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'titillium_web-semibold';
+    src: url('../assets/font/titilliumweb-semibold.ttf') format('ttf'),
+         url('../assets/font/titilliumweb-semibold.woff2') format('woff2'),
+         url('../assets/font/titilliumweb-semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MalagaOT-MedItalic';
+    src: url('../assets/font/MalagaOT-MedItalic.ttf') format('ttf'),
+         url('../assets/font/MalagaOT-MedItalic.otf') format('otf'),
+         url('../assets/font/MalagaOT-MedItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
