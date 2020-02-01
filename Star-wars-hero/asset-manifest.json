@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0b5f6f5.chunk.css",
+    "main.js": "/static/js/main.5d34963d.chunk.js",
+    "main.js.map": "/static/js/main.5d34963d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.29c7c2bd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.29c7c2bd.js.map",
+    "static/js/2.9b1666ac.chunk.js": "/static/js/2.9b1666ac.chunk.js",
+    "static/js/2.9b1666ac.chunk.js.map": "/static/js/2.9b1666ac.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bb1e2b1a9f12804bae84053a033fa043.js": "/precache-manifest.bb1e2b1a9f12804bae84053a033fa043.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c0b5f6f5.chunk.css.map": "/static/css/main.c0b5f6f5.chunk.css.map",
+    "static/js/2.9b1666ac.chunk.js.LICENSE": "/static/js/2.9b1666ac.chunk.js.LICENSE",
+    "static/media/BeruWhitesunlars.jpg": "/static/media/BeruWhitesunlars.8f4b4f89.jpg",
+    "static/media/BiggsDarklighter.jpg": "/static/media/BiggsDarklighter.daac3de8.jpg",
+    "static/media/C-3PO.jpg": "/static/media/C-3PO.ce3e6047.jpg",
+    "static/media/DarthVader.jpg": "/static/media/DarthVader.0f26e915.jpg",
+    "static/media/LeiaOrgana.jpg": "/static/media/LeiaOrgana.53c0b037.jpg",
+    "static/media/LukeSkywalker.jpg": "/static/media/LukeSkywalker.c5857f7d.jpg",
+    "static/media/Obi-WanKenobi.jpg": "/static/media/Obi-WanKenobi.74aeb9f8.jpg",
+    "static/media/OwenLars.jpg": "/static/media/OwenLars.dac79974.jpg",
+    "static/media/R2-D2.jpg": "/static/media/R2-D2.79c869ee.jpg",
+    "static/media/R5-D4.jpg": "/static/media/R5-D4.210c16d2.jpg",
+    "static/media/loader.svg": "/static/media/loader.32fe4dc6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29c7c2bd.js",
+    "static/js/2.9b1666ac.chunk.js",
+    "static/css/main.c0b5f6f5.chunk.css",
+    "static/js/main.5d34963d.chunk.js"
+  ]
+}
